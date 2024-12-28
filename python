@@ -1,0 +1,5 @@
+# 支払額
+ringo = 200
+mikan = 100
+waribiki = 50
+print(ringo * 3 + mikan * 2 / waribiki, '円の支払い')
